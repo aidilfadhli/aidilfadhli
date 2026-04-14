@@ -1,19 +1,18 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=220&section=header&text=Welcome%20to%20my%20World!&fontSize=50&animation=fadeIn" width="100%" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=220&section=header&text=Welcome%20to%20my%20World!&fontSize=50&animation=fadeIn&v=1" alt="Header" />
 </p>
-
-<h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=780&height=100&lines=Hey+There!;I'm+Muhammad+Aidil+Fadhli+Awalludin 👋" alt="Robot Typing" />
-  </a>
-</h1>
 
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=24&pause=500&color=00FF00&center=true&vCenter=true&width=780&height=50&lines=Initializing+Hackintosh...;Kernel+Hardening...;Establishing+Cisco+Tunnel...;System+Rebooting...;Rooting+Android+Device...;Love+You+T...;Debloating+Windows...;Deploying+Proxmox+Container...;Compiling+STM32+Firmware...;Data+Loaded+Successfully!" alt="Hacker Typing" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=60&lines=Hey+There!;I'm+Muhammad+Aidil+Fadhli+Awalludin+👋" alt="Typing..." />
   </a>
 </p>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=24&pause=500&color=00FF00&center=true&vCenter=true&width=900&height=40&lines=system+reboot;loading+data;love+you+T;bypassing+play+integrity;gaining+root+access;compiling+stm32+kernel;establishing+secure+tunnel;decrypting+payload;executing+override;system+ready" alt="Typing..." />
+  </a>
+</p>
 ---
 
 ### 👨‍💻 About Me
