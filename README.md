@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=220&section=header&text=Welcome%20to%20my%20World!&fontSize=50&animation=fadeIn&v=1" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Welcome%20to%20my%20World!&fontSize=50&animation=fadeIn" width="100%" alt="Header" />
 </p>
 
 <p align="center">
@@ -13,7 +13,6 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=24&pause=500&color=00FF00&center=true&vCenter=true&width=900&height=40&lines=system+reboot;loading+data;love+you+T;bypassing+play+integrity;gaining+root+access;compiling+stm32+kernel;establishing+secure+tunnel;decrypting+payload;executing+override;system+ready" alt="Typing..." />
   </a>
 </p>
----
 
 ### 👨‍💻 About Me
 
