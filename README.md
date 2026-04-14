@@ -1,16 +1,64 @@
-## Hi there 👋
+# Hey there! I'm Muhammad Aidil Fadhli Awalludin 👋
 
-<!--
-**aidilfadhli/aidilfadhli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20World!&fontSize=50" />
+</p>
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🎓 **Student** at **Telkom University**, Bandung.
+- 🚀 **Passionate** about Network Architecture, Android Modding, and Web Development.
+- 🎯 **Goal**: To become a versatile Full-Stack Engineer who can bridge the gap between hardware and software.
+
+---
+
+### 🔧 What I Do
+
+- **Hackintosh Enthusiast**: Customizing and installing macOS on non-Apple hardware (OCLP & OpenCore).
+- **Android Power User**: Deep system modifications including Rooting, Custom ROMs, and Kernel optimization.
+- **OS Deployment**: Windows debloating, custom AIO installer creation, and system performance tuning.
+- **Network Engineer**: Designing network topologies, building infrastructures for buildings, and advanced simulation using **Cisco Packet Tracer**.
+
+---
+
+### 🛠️ Tech Stack & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Cisco-005A9C?style=for-the-badge&logo=cisco&logoColor=white" />
+  <img src="https://img.shields.io/badge/Hackintosh-000000?style=for-the-badge&logo=apple&logoColor=white" />
+  <img src="https://img.shields.io/badge/Android%20Mod-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
+  <img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" />
+  <br>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Statistics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aidilfadhli&show_icons=true&theme=radical&hide_border=true" alt="Aidil's Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aidilfadhli&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Let's Connect!
+
+<p align="left">
+  <a href="https://instagram.com/aidilfadhlii" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/@" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:aidilfadhli.other@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+<p align="center">
+  <i>"Are you ever gonna know if you never even try?" - Hall Of Fame by The Script</i>
+</p>
