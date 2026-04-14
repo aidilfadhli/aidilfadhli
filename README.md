@@ -51,11 +51,10 @@
 
 ### 📊 GitHub Statistics
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aidilfadhli&show_icons=true&theme=radical&hide_border=true" alt="Aidil's Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aidilfadhli&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=aidilfadhli&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&v=1" height="195" alt="Aidil's Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aidilfadhli&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&v=1" height="195" alt="Top Languages" />
+</div>
 
 ---
 
