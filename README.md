@@ -18,15 +18,11 @@
 
 ### 👨‍💻 About Me
 
-<div align="center">
-
-#### 🎓 Student at **[Telkom University](https://telkomuniversity.ac.id/)**, Bandung.
-
-#### 🚀 Passionate about **Network Architecture**, **Android Modding**, and **Web Development**.
-
-#### 🎯 Goal: To become a versatile **Full-Stack Engineer** who can bridge the gap between hardware and software.
-
-</div>
+<p align="center">
+  🎓 <b>Student</b> at <b><a href="https://telkomuniversity.ac.id/">Telkom University</a></b>, Bandung. <br>
+  🚀 <b>Passionate</b> about Network Architecture, Android Modding, and Web Development. <br>
+  🎯 <b>Goal:</b> To become a versatile <b>Full-Stack Engineer</b> who can bridge the gap between hardware and software.
+</p>
 
 ---
 
