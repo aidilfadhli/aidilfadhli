@@ -27,6 +27,7 @@
 #### 🎯 Goal: To become a versatile **Full-Stack Engineer** who can bridge the gap between hardware and software.
 
 </div>
+
 ### 🔧 What I Do
 
 | 🛠️ System Customization                                                                                | 🌐 Infrastructure & Mobile                                                                                                                           |
