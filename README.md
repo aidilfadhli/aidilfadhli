@@ -30,21 +30,21 @@
 
 ---
 
-### 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aidilfadhli&theme=dracula&hide_border=true&background=0D1117" alt="Aidil's Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aidilfadhli&theme=dracula&bg_color=0D1117" alt="Top Languages" />
-</div>
-
----
-
 ### 🔧 What I Do
 
 | 🛠️ System Customization                                                                                | 🌐 Infrastructure & Mobile                                                                                                                           |
 | :----------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Hackintosh Enthusiast**<br>Customizing and installing macOS on non-Apple hardware (OCLP & OpenCore). | **Android Enthusiast**<br>Deep system modifications including Rooting, Custom ROMs, and Kernel optimization.                                         |
 | **OS Deployment**<br>Windows debloating, custom AIO installer creation, and system performance tuning. | **Network Engineer**<br>Designing network topologies, building infrastructures for buildings, and advanced simulation using **Cisco Packet Tracer**. |
+
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aidilfadhli&theme=dracula&hide_border=true&background=0D1117" alt="Aidil's Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aidilfadhli&theme=dracula&bg_color=0D1117" alt="Top Languages" />
+</div>
 
 ---
 
@@ -62,7 +62,7 @@
 
 ### 📫 Let's Connect!
 
-<p align="left">
+<p align="center">
   <a href="https://instagram.com/aidilfadhlii" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
   <a href="https://linkedin.com/in/@" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="mailto:aidilfadhli.other@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
