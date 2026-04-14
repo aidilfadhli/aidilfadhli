@@ -1,18 +1,18 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=220&section=header&text=Welcome%20to%20my%20World!&fontSize=50" alt="Banner" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=220&section=header&text=Welcome%20to%20my%20World!&fontSize=50&animation=fadeIn" width="100%" />
 </p>
 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=0F0&center=true&vCenter=true&width=1000&lines=Hey+There!;I'm+Muhammad+Aidil+Fadhli+Awalludin+👋" alt="Typing Name" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&pause=1000&color=FFFFFF&center=true&vCenter=true&width=780&height=100&lines=Hey+There!;I'm+Muhammad+Aidil+Fadhli+Awalludin 👋" alt="Robot Typing" />
   </a>
 </h1>
 
-<h4 align="center">
+<p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=500&color=0F0&center=true&vCenter=true&width=1000&lines=Executing+sys_core_hack_v3.2.1...;root@localhost:~#+sudo+ifconfig+eth0+promisc;Targeting+proxmox_lab_v5.4;[SYSTEM]+Kernel_SU++-+v21.4+Active;Android_Deployment_Script.sh+--AIO;Cisco_ASA_Config_v9.12;System+Hardening+in+progress...+Please+wait...;[ALERT]+Unauthorized+access+attempt...;...;...[DONE];Connecting+to+ExtenOS_LiquidGlass..." alt="Hacker Text" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=24&pause=500&color=00FF00&center=true&vCenter=true&width=780&height=50&lines=Initializing+Hackintosh...;Kernel+Hardening...;Establishing+Cisco+Tunnel...;System+Rebooting...;Rooting+Android+Device...;Love+You+T...;Debloating+Windows...;Deploying+Proxmox+Container...;Compiling+STM32+Firmware...;Data+Loaded+Successfully!" alt="Hacker Typing" />
   </a>
-</h4>
+</p>
 
 ---
 
