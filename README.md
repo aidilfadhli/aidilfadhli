@@ -1,4 +1,8 @@
 <p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Welcome%20To%20My%20GitHub&fontSize=50&animation=fadeIn" width="100%" alt="Header" />
+</p>
+
+<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=60&lines=Hey+There!;I'm+Muhammad+Aidil+Fadhli+Awalludin+👋" alt="Typing..." />
   </a>
@@ -10,6 +14,8 @@
   </a>
 </p>
 
+---
+
 ### 👨‍💻 About Me
 
 > 🎓 **Student** at **[Telkom University](https://telkomuniversity.ac.id/)**, Bandung. <br>
@@ -18,10 +24,10 @@
 
 ### 🔧 What I Do
 
-| 🛠️ System Customization                                                                                   | 🌐 Infrastructure & Mobile                                                                                                                              |
-| :-------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| 🍏 **Hackintosh Enthusiast**<br>Customizing and installing macOS on non-Apple hardware (OCLP & OpenCore). | 🤖 **Android Enthusiast**<br>Deep system modifications including Rooting, Custom ROMs, and Kernel optimization.                                         |
-| 💻 **OS Deployment**<br>Windows debloating, custom AIO installer creation, and system performance tuning. | 📡 **Network Engineer**<br>Designing network topologies, building infrastructures for buildings, and advanced simulation using **Cisco Packet Tracer**. |
+| 🛠️ System Customization                                                                                | 🌐 Infrastructure & Mobile                                                                                                                           |
+| :----------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Hackintosh Enthusiast**<br>Customizing and installing macOS on non-Apple hardware (OCLP & OpenCore). | **Android Enthusiast**<br>Deep system modifications including Rooting, Custom ROMs, and Kernel optimization.                                         |
+| **OS Deployment**<br>Windows debloating, custom AIO installer creation, and system performance tuning. | **Network Engineer**<br>Designing network topologies, building infrastructures for buildings, and advanced simulation using **Cisco Packet Tracer**. |
 
 ---
 
