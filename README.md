@@ -1,8 +1,4 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=220&section=header&text=Welcome%20To%20My%20GitHub&fontSize=50&animation=fadeIn" width="100%" alt="Header" />
-</p>
-
-<p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=Orbitron&weight=700&size=28&pause=1000&color=FFFFFF&center=true&vCenter=true&width=900&height=60&lines=Hey+There!;I'm+Muhammad+Aidil+Fadhli+Awalludin+👋" alt="Typing..." />
   </a>
