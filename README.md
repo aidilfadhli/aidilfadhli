@@ -16,10 +16,12 @@
 
 ### 👨‍💻 About Me
 
-```yaml
-Base       : Telkom University, Bandung (Student)
-Passions   : Network Architecture, Android Modding, Web Development
-Goal       : Full-Stack Engineer bridging hardware and software
+> [!NOTE]
+> **🎓 Education:** Student at **Telkom University**, Bandung.
+>
+> **🚀 Passions:** Network Architecture, Android Modding, and Web Development.
+>
+> **🎯 Goal:** To become a versatile Full-Stack Engineer who can bridge the gap between hardware and software.
 
 ### 🔧 What I Do
 
@@ -65,4 +67,3 @@ Goal       : Full-Stack Engineer bridging hardware and software
 <p align="center">
   <i>"Are you ever gonna know if you never even try?" - Hall Of Fame by The Script</i>
 </p>
-```
