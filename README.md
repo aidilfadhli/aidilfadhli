@@ -1,10 +1,18 @@
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=0F0&center=true&vCenter=true&width=800&lines=____________________________________________;+%2F++_++%5C+%2F++_++%5C+%2F++_++%5C+%2F++_++%5C+%2F++_++%5C+%2F++_++%5C+%2F++_++%5C+;%7C++(%2F%7C++(%2F%7C++(%2F%7C++(%2F%7C++(%2F%7C++(%2F%7C++(%2F%7C+;+%5C___%2F+%5C___%2F+%5C___%2F+%5C___%2F+%5C___%2F+%5C___%2F+%5C___%2F+;____________________________________________;%20INITIALIZING%20SYSTEM%20ARCHITECT%20INTERFACE...%20%20;%20ACCESSING%20DEEP%20WEB%20PROTOCOLS...%20%20%20%20;%20LOADING%20NETWORK%20ENGINEER%20DATABASE...;%20STATUS%3A%20[ONLINE]%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20%20;" alt="Hacker Animation" />
+  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=220&section=header&text=Welcome%20to%20my%20World!&fontSize=50" alt="Banner" />
 </p>
 
 <h1 align="center">
-  <img src="https://img.shields.io/badge/Hey_there!_I'm-Muhammad_Aidil_Fadhli_Awalludin-00FF00?style=for-the-badge&logo=github&logoColor=black&labelColor=333" alt="Typing SVG" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=36&pause=1000&color=0F0&center=true&vCenter=true&width=1000&lines=Hey+There!;I'm+Muhammad+Aidil+Fadhli+Awalludin+👋" alt="Typing Name" />
+  </a>
 </h1>
+
+<h4 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=500&color=0F0&center=true&vCenter=true&width=1000&lines=Executing+sys_core_hack_v3.2.1...;root@localhost:~#+sudo+ifconfig+eth0+promisc;Targeting+proxmox_lab_v5.4;[SYSTEM]+Kernel_SU++-+v21.4+Active;Android_Deployment_Script.sh+--AIO;Cisco_ASA_Config_v9.12;System+Hardening+in+progress...+Please+wait...;[ALERT]+Unauthorized+access+attempt...;...;...[DONE];Connecting+to+ExtenOS_LiquidGlass..." alt="Hacker Text" />
+  </a>
+</h4>
 
 ---
 
