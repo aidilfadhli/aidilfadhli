@@ -16,19 +16,16 @@
 
 ### 👨‍💻 About Me
 
-> [!NOTE]
-> **🎓 Education:** Student at **Telkom University**, Bandung.
->
-> **🚀 Passions:** Network Architecture, Android Modding, and Web Development.
->
-> **🎯 Goal:** To become a versatile Full-Stack Engineer who can bridge the gap between hardware and software.
+> 🎓 **Student** at **[Telkom University](https://telkomuniversity.ac.id/)**, Bandung. <br>
+> 🚀 **Passionate** about Network Architecture, Android Modding, and Web Development. <br>
+> 🎯 **Goal**: To become a versatile Full-Stack Engineer who can bridge the gap between hardware and software.
 
 ### 🔧 What I Do
 
-- **Hackintosh Enthusiast**: Customizing and installing macOS on non-Apple hardware (OCLP & OpenCore).
-- **Android Enthusiast**: Deep system modifications including Rooting, Custom ROMs, and Kernel optimization.
-- **OS Deployment**: Windows debloating, custom AIO installer creation, and system performance tuning.
-- **Network Engineer**: Designing network topologies, building infrastructures for buildings, and advanced simulation using **Cisco Packet Tracer**.
+| 🛠️ System Customization                                                                                   | 🌐 Infrastructure & Mobile                                                                                                                              |
+| :-------------------------------------------------------------------------------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 🍏 **Hackintosh Enthusiast**<br>Customizing and installing macOS on non-Apple hardware (OCLP & OpenCore). | 🤖 **Android Enthusiast**<br>Deep system modifications including Rooting, Custom ROMs, and Kernel optimization.                                         |
+| 💻 **OS Deployment**<br>Windows debloating, custom AIO installer creation, and system performance tuning. | 📡 **Network Engineer**<br>Designing network topologies, building infrastructures for buildings, and advanced simulation using **Cisco Packet Tracer**. |
 
 ---
 
