@@ -1,7 +1,9 @@
 # Hey there! I'm Muhammad Aidil Fadhli Awalludin 👋
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=auto&height=200&section=header&text=Welcome%20to%20my%20World!&fontSize=50" />
+  <a href="https://github.com/aidilfadhli">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=35&duration=3000&pause=1000&color=0077B5&center=true&vCenter=true&width=600&lines=Welcome+to+my+World!;System+Architect;Embedded+Systems+Dev;Android+Enthusiast" />
+  </a>
 </p>
 
 ### 👨‍💻 About Me
