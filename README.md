@@ -28,6 +28,17 @@
 
 </div>
 
+---
+
+### 📊 GitHub Statistics
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aidilfadhli&theme=dracula&hide_border=true&background=0D1117" alt="Aidil's Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aidilfadhli&theme=dracula&bg_color=0D1117" alt="Top Languages" />
+</div>
+
+---
+
 ### 🔧 What I Do
 
 | 🛠️ System Customization                                                                                | 🌐 Infrastructure & Mobile                                                                                                                           |
@@ -46,15 +57,6 @@
 | **Lab & Infra**                | <p align="center"><img src="https://img.shields.io/badge/Proxmox-E57024?style=for-the-badge&logo=proxmox&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/VMWare-606060?style=for-the-badge&logo=vmware&logoColor=white" /> <img src="https://img.shields.io/badge/VirtualBox-183A61?style=for-the-badge&logo=virtualbox&logoColor=white" /> <img src="https://img.shields.io/badge/Cisco-005A9C?style=for-the-badge&logo=cisco&logoColor=white" /></p>                                                                                                                                                                                           |
 | **Engineering**                | <p align="center"><img src="https://img.shields.io/badge/STM32-03234B?style=for-the-badge&logo=stmicroelectronics&logoColor=white" /> <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white" /> <img src="https://img.shields.io/badge/Wokwi-000000?style=for-the-badge&logo=wokwi&logoColor=white" /> <img src="https://img.shields.io/badge/Android%20Mod-3DDC84?style=for-the-badge&logo=android&logoColor=white" /></p>                                                                                                                                                                                                                                                                                         |
 | **Systems / OS**               | <p align="center"><img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" /> <img src="https://img.shields.io/badge/MacOS-000000?style=for-the-badge&logo=apple&logoColor=white" /> <img src="https://img.shields.io/badge/Hackintosh-606060?style=for-the-badge&logo=apple&logoColor=white" /></p>                                                                                                                                                                                                                                                                                                           |
-
----
-
-### 📊 GitHub Statistics
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aidilfadhli&theme=dracula&hide_border=true&background=0D1117" alt="Aidil's Streak" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aidilfadhli&theme=dracula&bg_color=0D1117" alt="Top Languages" />
-</div>
 
 ---
 
