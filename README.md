@@ -16,12 +16,12 @@
 
 ---
 
-### 👨‍💻 About Me
+### About Me
 
-<p align="center">
-  🎓 <b>Student</b> at <b><a href="https://telkomuniversity.ac.id/">Telkom University</a></b>, Bandung. <br>
-  🚀 <b>Passionate</b> about Network Architecture, Android Modding, and Web Development. <br>
-  🎯 <b>Goal:</b> To become a versatile <b>Full-Stack Engineer</b> who can bridge the gap between hardware and software.
+<p align="left">
+  <img src="https://api.iconify.design/lucide/graduation-cap.svg?color=white&width=20" align="center"> &nbsp; <b>Student</b> at <b><a href="https://telkomuniversity.ac.id/">Telkom University</a></b>, Bandung. <br><br>
+  <img src="https://api.iconify.design/lucide/cpu.svg?color=white&width=20" align="center"> &nbsp; <b>Passionate</b> about Network Architecture, Android Modding, and Web Development. <br><br>
+  <img src="https://api.iconify.design/lucide/target.svg?color=white&width=20" align="center"> &nbsp; <b>Goal:</b> To become a versatile Full-Stack Engineer who can bridge the gap between hardware and software.
 </p>
 
 ---
