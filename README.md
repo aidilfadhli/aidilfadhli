@@ -52,8 +52,8 @@
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=aidilfadhli&show_icons=true&theme=dracula&hide_border=true&bg_color=0D1117&v=1" height="195" alt="Aidil's Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aidilfadhli&layout=compact&theme=dracula&hide_border=true&bg_color=0D1117&v=1" height="195" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=aidilfadhli&theme=dracula&hide_border=true&background=0D1117" alt="Aidil's Streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=aidilfadhli&theme=dracula&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 ---
